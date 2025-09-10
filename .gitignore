@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+dist/
+
+# Cache files
+*.cache
+dlc_cache.json
+game_cache.json
+
+# Backup files
+*.bak
+*.bak.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Executables (keep only release versions)
+*.exe
+!SBI-Tools.exe
+
+# Steam Tools specific
+Steamtools.lua
+Steamtools.st
+SteamToolsSetup.exe
+luapacka.exe
+
+# Version folders
+versions/
+s/
+New folder/
+
+# Development files
+*.py.bak.*
+dlc-json.py.bak.b
+dlc.py.bak.b
